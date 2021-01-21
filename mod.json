@@ -1,0 +1,17 @@
+{
+    "Name": "Note Blocks",
+    "Author": "Anon64",
+    "Description": "This mod adds note blocks.",
+    "ModVersion": "1.0",
+    "GameVersion": "1.13.1",
+    "ThumbnailPath": "noteblock.png",
+    "EntryPoint": "Noteblock.Mod",
+    "Tags": [
+        "Fun",
+        "Electronics",
+        "Machine"
+    ],
+    "Scripts": [
+        "script.cs"
+    ]
+}
